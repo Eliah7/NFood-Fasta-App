@@ -1,4 +1,4 @@
-package com.cainam.foodfasta;
+package com.eliahmbwilo.foodfasta;
 
 import org.junit.Test;
 
